@@ -1,0 +1,28 @@
+Welcome to Nine Men Morris !!! 
+
+(open game)
+Current Board Postion: xxxxxxBBxWWWWBBxWxxBxxx
+
+x      x      x
+  x    x    x  
+    B  B  x    
+W W W     W B B
+    x  N  W    
+  x    x    B  
+x      x      x
+
+
+Next move is: 
+
+New Board Position: xxxxxxxBWWWWWBBxWxxBxxx
+
+x      x      x
+  x    x    x  
+    x  B  W    
+W W W     W B B
+    x  N  W    
+  x    x    B  
+x      x      x
+
+Best value for move is: 2
+Positions evaluated: 3742

@@ -1,0 +1,28 @@
+Welcome to Nine Men Morris !!! 
+
+Current Board Postion: xxxxxWxBxWxBBxWxxBxxWxx
+
+x      x      x
+  x    x    W  
+    x  B  x    
+W x B     B  x W
+    x  N  x    
+  B    x    x  
+W      x      x
+
+
+Next move is: 
+
+(mid game - black move)
+New Board Position: xxxxxWxBBWxBxxWxxBxxWxx
+
+x      x      x
+  x    x    W  
+    x  B  B    
+W x B     x  x W
+    x  N  x    
+  B    x    x  
+W      x      x
+
+Best value for move is: -98
+Positions evaluated: 330
